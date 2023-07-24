@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import useAxios from "../customHooks/useAxios";
 
@@ -25,6 +25,7 @@ const CollegeDetails = () => {
     admission_dates,
     admission_process,
     research_history,
+    research_count,
     research_works,
     events,
     sports,
@@ -56,8 +57,10 @@ const CollegeDetails = () => {
               <h3 className="text-2xl font-bold">Research History</h3>
               <p>{research_history}</p>
             </div>
+            <p><span className="text-lg font-bold">Number of the research :</span> {research_count}</p>
             <div>
-              <h3 className="text-2xl font-bold">Research Works</h3>
+            
+              <h3 className="text-2xl font-bold mb-3">Popular Research Works</h3>
               <div className="space-y-3">
                 {research_works?.map((project, index) => {
                   return (
@@ -71,7 +74,7 @@ const CollegeDetails = () => {
             </div>
             <div>
               <h3 className="text-2xl font-bold text-center mb-4">Events</h3>
-              <div className="grid grid-cols-3 justify-between">
+              <div className="grid grid-cols-3 justify-between gap-5">
                 {events?.map((event, index) => {
                   return (
                     <div key={index}>

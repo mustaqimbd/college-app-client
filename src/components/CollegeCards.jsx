@@ -66,7 +66,6 @@ const Card = ({ college }) => {
         </div>
         <div>
           <h3 className="font-bold">Sports</h3>
-
           {sports?.map((sport, index) => {
             return (
               <ul key={index}>

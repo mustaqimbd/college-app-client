@@ -23,6 +23,8 @@
       ],
       "admission_process": "Harvard University's admission process is highly competitive and based on a holistic review of each applicant's academic achievements, extracurricular activities, letters of recommendation, personal statement, and interviews. Standardized test scores such as SAT or ACT are required.",
       "research_history": "Harvard University has a rich research history spanning across various fields such as science, technology, medicine, social sciences, humanities, and more. It has been a pioneer in groundbreaking research and has produced numerous Nobel laureates, Pulitzer Prize winners, and leaders in various disciplines. Some of the notable research areas at Harvard include biomedical engineering, artificial intelligence, stem cell research, climate change, public policy, economics, and history.",
+      "college_rating": 4.8,
+      "research_count": 2350,
       "research_works": [
         {
           "project_name": "Cancer Research Project",
@@ -116,6 +118,8 @@
       ],
       "admission_process": "Stanford University follows a rigorous admission process, emphasizing academic excellence, extracurricular achievements, leadership qualities, and personal characteristics. SAT or ACT scores are recommended but not required.",
       "research_history": "Stanford University has a long and distinguished research history known for its contributions to the fields of computer science, engineering, medicine, and entrepreneurship. It played a crucial role in the development of Silicon Valley, fostering innovation and research in technology and business. Stanford's research efforts have resulted in significant advancements in fields such as artificial intelligence, biotechnology, renewable energy, and social sciences.",
+      "college_rating": 4.7,
+      "research_count": 1987,
       "research_works": [
         {
           "project_name": "Artificial Intelligence and Machine Learning",
@@ -194,6 +198,8 @@
       ],
       "admission_process": "MIT's admission process is highly selective, considering academic excellence, a strong background in math and science, extracurricular involvements, and a passion for innovation and creativity. SAT Subject Tests or ACT Writing are recommended but not required.",
       "research_history": "MIT is renowned for its cutting-edge research and technological advancements. It has a strong emphasis on science and engineering research. Over the years, MIT has been at the forefront of research in areas like computer science, aerospace engineering, nanotechnology, robotics, and materials science. Its research history includes significant contributions to space exploration, the development of the internet, and advancements in healthcare technologies.",
+      "college_rating": 4.9,
+      "research_count": 2156,
       "research_works": [
         {
           "project_name": "Space Exploration and Astronomy",
@@ -275,6 +281,8 @@
       ],
       "admission_process": "The University of Oxford follows a highly selective admission process, considering academic excellence, extracurricular achievements, letters of recommendation, personal statement, and interviews. Applicants may need to take additional admission tests based on their chosen course.",
       "research_history": "University of Oxford has a storied research history that dates back centuries. It is one of the oldest universities in the world and has been a hub for groundbreaking research in various fields. Oxford's research history includes discoveries in physics, medicine, literature, archaeology, and politics. It has been home to world-renowned scholars and Nobel laureates, making significant contributions to the advancement of knowledge and human understanding.",
+      "college_rating": 4.6,
+      "research_count": 1779,
       "research_works": [
         {
           "project_name": "Literature and Humanities",
@@ -368,6 +376,8 @@
       ],
       "admission_process": "Caltech's admission process emphasizes a strong background in math and science, academic excellence, research experience, and a passion for STEM fields. SAT Subject Tests or ACT Writing are recommended but not required.",
       "research_history": "Caltech has a prestigious research history known for its focus on science and engineering. It has been involved in cutting-edge research in fields such as astronomy, physics, chemistry, biology, and aerospace engineering. Caltech's research efforts have led to groundbreaking discoveries and technological advancements, including contributions to space exploration, the study of gravitational waves, and advancements in renewable energy.",
+      "college_rating": 4.9,
+      "research_count": 1898,
       "research_works": [
         {
           "project_name": "Astronomy and Astrophysics",
@@ -454,6 +464,8 @@
       ],
       "admission_process": "Cambridge University's admission process is highly competitive and focuses on academic achievements, passion for chosen subjects, letters of recommendation, and personal statement. Applicants may be required to take admission tests or attend interviews.",
       "research_history": "Cambridge University has a rich research history and has been a center of intellectual excellence for centuries. It has been a breeding ground for pioneering research in various disciplines, including mathematics, physics, biology, literature, and social sciences. Cambridge's research history includes the discovery of the structure of DNA, the theory of evolution, and advancements in theoretical physics and cosmology.",
+      "college_rating": 4.7,
+      "research_count": 2010,
       "research_works": [
         {
           "project_name": "Biochemistry and Molecular Biology",
@@ -537,6 +549,8 @@
       ],
       "admission_process": "Yale University follows a highly competitive and holistic admission process, considering academic excellence, extracurricular involvements, letters of recommendation, personal statement, and interviews. SAT or ACT scores are required.",
       "research_history": "Yale University has a distinguished research history with contributions to a wide range of fields. It has been a hub for research in areas such as law, medicine, literature, economics, and political science. Yale's research history includes advancements in neuroscience, environmental studies, public health, and international relations. It has been home to prominent researchers and scholars who have made significant impacts on society.",
+      "college_rating": 4.8,
+      "research_count": 2245,
       "research_works": [
         {
           "project_name": "Political Science and International Relations",
@@ -629,6 +643,8 @@
       ],
       "admission_process": "ETH Zurich's admission process evaluates academic qualifications, including transcripts and standardized test scores, and places significant emphasis on research experiences, motivation, and suitability for the chosen program.",
       "research_history": "ETH Zurich is renowned for its research in science, engineering, and technology. It has a strong focus on applied research and has contributed to innovations in fields such as robotics, renewable energy, materials science, and computer science. ETH Zurich's research history includes pioneering work in architecture, urban planning, and sustainable development. It has been a leading institution in promoting research and innovation in Switzerland and beyond.",
+      "college_rating": 4.6,
+      "research_count": 1923,
       "research_works": [
         {
           "project_name": "Robotics and Autonomous Systems",
@@ -707,6 +723,8 @@
       ],
       "admission_process": "Princeton University follows a highly selective and holistic admission process, considering academic achievements, extracurricular involvement, leadership qualities, letters of recommendation, and interviews. SAT or ACT scores are required.",
       "research_history": "Princeton University has a distinguished research history with a strong emphasis on science, social sciences, and humanities. It has been at the forefront of research in fields such as mathematics, physics, economics, psychology, and literature. Princeton's research history includes contributions to theoretical physics, game theory, and the development of the internet. It has been home to Nobel laureates, Fields Medal winners, and leading intellectuals.",
+      "college_rating": 4.7,
+      "research_count": 2098,
       "research_works": [
         {
           "project_name": "Mathematics and Theoretical Physics",
@@ -800,6 +818,8 @@
       ],
       "admission_process": "The University of Chicago has a highly competitive admission process, focusing on academic excellence, intellectual curiosity, strong writing skills, and a demonstrated passion for learning. SAT or ACT scores are required.",
       "research_history": "University of Chicago has a long and influential research history in various disciplines. It has been a center for research in economics, law, sociology, political science, and literature. Chicago's research history includes pioneering work in the field of economics, leading to the development of the Chicago School of Economics. It has been a breeding ground for Nobel laureates and has made significant contributions to academia and public policy.",
+      "college_rating": 4.6,
+      "research_count": 1865,
       "research_works": [
         {
           "project_name": "Economics and Behavioral Science",
