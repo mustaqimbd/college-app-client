@@ -17,11 +17,13 @@ const Admission = () => {
         console.log(e);
       });
   }, [instance]);
- 
+
   return (
     <div>
       {colleges.map((college, index) => {
-        return <Card key={index} college={college} />;
+        if (index % 2 == 0) {
+          return <Card key={index} college={college} />;
+        }
       })}
     </div>
   );
@@ -47,7 +49,9 @@ const Card = ({ college }) => {
         />
       </div>
       <div className="px-4 space-y-4 my-5">
-        <h1 className="text-2xl font-bold hover:text-blue-500"><Link to={`/admission/${_id}`}>{college_name}</Link></h1>
+        <h1 className="text-2xl font-bold hover:text-blue-500">
+          <Link to={`/admission/${_id}`}>{college_name}</Link>
+        </h1>
 
         <div className="flex items-center gap-4">
           <StarRatings
