@@ -3,6 +3,7 @@ import MainLayout from "../layout/MainLayout";
 import Home from "../pages/Home";
 import CollegeDetails from "../pages/CollegeDetails";
 import AllColleges from "../pages/AllColleges";
+import Admission from "../pages/Admission";
 
 const router = createBrowserRouter([
   {
@@ -20,6 +21,10 @@ const router = createBrowserRouter([
       {
         path: "college/:id",
         element: <CollegeDetails />,
+      },
+      {
+        path: "admission",
+        element: <Admission />,
       },
     ],
   },
