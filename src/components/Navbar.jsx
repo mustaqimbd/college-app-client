@@ -29,7 +29,7 @@ const Navbar = () => {
           </li>
         </ul>
       </nav>
-      <div className="flex items-center gap-5 max-w-md border rounded-md mt-8 mx-auto">
+      <div className="flex items-center gap-5 max-w-md border rounded-md my-5 mx-auto">
         <input
           type="text"
           className="px-4 py-[6px] rounded-md focus:outline-none focus:ring-2 focus:ring-[#2A2F44] flex-grow"

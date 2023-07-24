@@ -1,0 +1,863 @@
+{
+  "colleges": [
+    {
+      "college_name": "Harvard University",
+      "admission_dates": "2023-09-01 to 2023-09-30",
+      "college_image": "https://3.bp.blogspot.com/-fPu3x7JeS1k/WXXK0z0oWrI/AAAAAAAAldo/vm72KELU79A3byP-SC-UFbMvNHFi5G3rgCLcBGAs/s1600/harvard%2Buniversity%2B5.jpg",
+      "events": [
+        {
+          "event_name": "Orientation Day",
+          "date": "2023-09-05",
+          "description": "Get to know the campus and academic life at Harvard."
+        },
+        {
+          "event_name": "Welcome Week",
+          "date": "2023-09-10",
+          "description": "Various activities and events to welcome new students."
+        },
+        {
+          "event_name": "Alumni Homecoming",
+          "date": "2023-10-15",
+          "description": "An annual event where alumni come together to celebrate."
+        }
+      ],
+      "admission_process": "Harvard University's admission process is highly competitive and based on a holistic review of each applicant's academic achievements, extracurricular activities, letters of recommendation, personal statement, and interviews. Standardized test scores such as SAT or ACT are required.",
+      "research_history": "Harvard University has a rich research history spanning across various fields such as science, technology, medicine, social sciences, humanities, and more. It has been a pioneer in groundbreaking research and has produced numerous Nobel laureates, Pulitzer Prize winners, and leaders in various disciplines. Some of the notable research areas at Harvard include biomedical engineering, artificial intelligence, stem cell research, climate change, public policy, economics, and history.",
+      "research_works": [
+        {
+          "project_name": "Cancer Research Project",
+          "description": "Pioneering research in cancer treatment and prevention, making significant strides in medical advancements."
+        },
+        {
+          "project_name": "Sustainability and Environmental Studies",
+          "description": "Contributing to the understanding of climate change, sustainable development, and environmental conservation."
+        },
+        {
+          "project_name": "Human Rights and Social Justice",
+          "description": "Undertaking impactful research to promote human rights, social equality, and global justice."
+        }
+      ],
+      "sports": [
+        {
+          "category": "Varsity Sports",
+          "sports_list": [
+            "Football",
+            "Basketball",
+            "Baseball",
+            "Soccer",
+            "Softball",
+            "Volleyball",
+            "Ice Hockey",
+            "Track and Field",
+            "Cross Country",
+            "Swimming and Diving",
+            "Rowing",
+            "Sailing",
+            "Water Polo",
+            "Fencing",
+            "Golf",
+            "Tennis"
+          ]
+        },
+        {
+          "category": "Club Sports",
+          "sports_list": [
+            "Ultimate Frisbee",
+            "Rugby",
+            "Cricket",
+            "Lacrosse",
+            "Cycling",
+            "Equestrian",
+            "Squash",
+            "Table Tennis",
+            "Skiing and Snowboarding",
+            "Wrestling",
+            "Taekwondo",
+            "Badminton"
+          ]
+        },
+        {
+          "category": "Intramural Sports",
+          "sports_list": [
+            "Flag Football",
+            "Soccer",
+            "Basketball",
+            "Softball",
+            "Volleyball",
+            "Dodgeball",
+            "Tennis",
+            "Ping Pong",
+            "Bowling",
+            "Billiards"
+          ]
+        }
+      ]
+    },
+    {
+      "college_name": "Stanford University",
+      "admission_dates": "2023-08-15 to 2023-08-31",
+      "college_image": "https://4.bp.blogspot.com/-PpBX4EyZmio/WXYDak6M_DI/AAAAAAAAlek/v6g-2wkVWJEk6HExaQdGHBrhuwZ_5JLrQCLcBGAs/s1600/Stanford%2BUniversity%2B3.jpg",
+      "events": [
+        {
+          "event_name": "New Student Convocation",
+          "date": "2023-09-01",
+          "description": "A formal gathering to welcome new students to Stanford."
+        },
+        {
+          "event_name": "Family Weekend",
+          "date": "2023-09-25",
+          "description": "A weekend event where families of students visit the campus."
+        },
+        {
+          "event_name": "Research Symposium",
+          "date": "2023-10-05",
+          "description": "An event showcasing the latest research breakthroughs at Stanford."
+        }
+      ],
+      "admission_process": "Stanford University follows a rigorous admission process, emphasizing academic excellence, extracurricular achievements, leadership qualities, and personal characteristics. SAT or ACT scores are recommended but not required.",
+      "research_history": "Stanford University has a long and distinguished research history known for its contributions to the fields of computer science, engineering, medicine, and entrepreneurship. It played a crucial role in the development of Silicon Valley, fostering innovation and research in technology and business. Stanford's research efforts have resulted in significant advancements in fields such as artificial intelligence, biotechnology, renewable energy, and social sciences.",
+      "research_works": [
+        {
+          "project_name": "Artificial Intelligence and Machine Learning",
+          "description": "Pushing the boundaries of AI and ML research, leading to cutting-edge applications across industries."
+        },
+        {
+          "project_name": "Biomedical Engineering Innovations",
+          "description": "Developing innovative medical technologies and treatments to improve healthcare outcomes."
+        },
+        {
+          "project_name": "Renewable Energy and Sustainability",
+          "description": "Addressing global energy challenges and developing sustainable solutions for a greener future."
+        }
+      ],
+      "sports": [
+        {
+          "category": "Varsity Sports",
+          "sports_list": [
+            "Tennis",
+            "Swimming",
+            "Volleyball",
+            "Soccer",
+            "Baseball",
+            "Golf",
+            "Wrestling",
+            "Softball",
+            "Water Polo",
+            "Sailing",
+            "Rugby"
+          ]
+        },
+        {
+          "category": "Club Sports",
+          "sports_list": [
+            "Ultimate Frisbee",
+            "Squash",
+            "Surfing"
+          ]
+        },
+        {
+          "category": "Intramural Sports",
+          "sports_list": [
+            "Flag Football",
+            "Basketball",
+            "Soccer",
+            "Softball",
+            "Volleyball",
+            "Tennis",
+            "Swimming",
+            "Table Tennis",
+            "Cycling"
+          ]
+        }
+      ]
+    },
+    {
+      "college_name": "Massachusetts Institute of Technology (MIT)",
+      "admission_dates": "2023-08-01 to 2023-08-31",
+      "college_image": "https://2.bp.blogspot.com/-iojdyIobKbU/WXTvIX_eN8I/AAAAAAAAlaY/YEJh8YhED20BNMbwiTwaIVbIHIKTLwBpgCLcBGAs/w1200-h630-p-k-no-nu/Massachusetts%2BInstitute%2Bof%2BTechnology%2B1.jpg",
+      "events": [
+        {
+          "event_name": "Freshman Welcome",
+          "date": "2023-09-05",
+          "description": "A special event to welcome new students to MIT."
+        },
+        {
+          "event_name": "Tech Expo",
+          "date": "2023-09-15",
+          "description": "An exhibition showcasing the latest technological innovations."
+        },
+        {
+          "event_name": "Hackathon",
+          "date": "2023-10-20",
+          "description": "A competitive event where students come together to innovate and code."
+        }
+      ],
+      "admission_process": "MIT's admission process is highly selective, considering academic excellence, a strong background in math and science, extracurricular involvements, and a passion for innovation and creativity. SAT Subject Tests or ACT Writing are recommended but not required.",
+      "research_history": "MIT is renowned for its cutting-edge research and technological advancements. It has a strong emphasis on science and engineering research. Over the years, MIT has been at the forefront of research in areas like computer science, aerospace engineering, nanotechnology, robotics, and materials science. Its research history includes significant contributions to space exploration, the development of the internet, and advancements in healthcare technologies.",
+      "research_works": [
+        {
+          "project_name": "Space Exploration and Astronomy",
+          "description": "Advancing space exploration technologies and contributing to our understanding of the universe."
+        },
+        {
+          "project_name": "Emerging Technologies and Robotics",
+          "description": "Pioneering research in robotics and autonomous systems, driving innovation in various industries."
+        },
+        {
+          "project_name": "Healthcare Technologies",
+          "description": "Developing medical technologies and healthcare solutions to improve patient care and outcomes."
+        }
+      ],
+      "sports": [
+        {
+          "category": "Varsity Sports",
+          "sports_list": [
+            "Robotics",
+            "Fencing",
+            "Track and Field",
+            "Basketball",
+            "Ice Hockey",
+            "Cross Country",
+            "Swimming",
+            "Sailing",
+            "Squash",
+            "Water Polo",
+            "Cycling"
+          ]
+        },
+        {
+          "category": "Club Sports",
+          "sports_list": [
+            "Rock Climbing",
+            "E-sports",
+            "Table Tennis",
+            "Badminton",
+            "Skiing and Snowboarding"
+          ]
+        },
+        {
+          "category": "Intramural Sports",
+          "sports_list": [
+            "Flag Football",
+            "Soccer",
+            "Basketball",
+            "Ultimate Frisbee",
+            "Volleyball",
+            "Softball",
+            "Tennis",
+            "Dodgeball",
+            "Bowling",
+            "Billiards"
+          ]
+        }
+      ]
+    },
+    {
+      "college_name": "University of Oxford",
+      "admission_dates": "2023-09-01 to 2023-09-30",
+      "college_image": "https://studenthut.com/img/site/university-of-oxford-10007774-universities-reviews-rank-study-uk.jpg?height=675&width=1200",
+      "events": [
+        {
+          "event_name": "Orientation Week",
+          "date": "2023-09-05",
+          "description": "An introduction to campus life and academic programs at Oxford."
+        },
+        {
+          "event_name": "Academic Symposium",
+          "date": "2023-09-15",
+          "description": "A gathering of scholars and researchers to discuss their latest work."
+        },
+        {
+          "event_name": "Alumni Reunion",
+          "date": "2023-10-20",
+          "description": "A celebration where alumni return to connect with their alma mater."
+        }
+      ],
+      "admission_process": "The University of Oxford follows a highly selective admission process, considering academic excellence, extracurricular achievements, letters of recommendation, personal statement, and interviews. Applicants may need to take additional admission tests based on their chosen course.",
+      "research_history": "University of Oxford has a storied research history that dates back centuries. It is one of the oldest universities in the world and has been a hub for groundbreaking research in various fields. Oxford's research history includes discoveries in physics, medicine, literature, archaeology, and politics. It has been home to world-renowned scholars and Nobel laureates, making significant contributions to the advancement of knowledge and human understanding.",
+      "research_works": [
+        {
+          "project_name": "Literature and Humanities",
+          "description": "Prominent research in literature, history, philosophy, and other humanities disciplines."
+        },
+        {
+          "project_name": "Medical Sciences",
+          "description": "Leading research in medicine, healthcare, and biomedical sciences."
+        },
+        {
+          "project_name": "Quantum Computing",
+          "description": "Cutting-edge research in quantum computing and its applications."
+        }
+      ],
+      "sports": [
+        {
+          "category": "Varsity Sports",
+          "sports_list": [
+            "Football",
+            "Basketball",
+            "Baseball",
+            "Soccer",
+            "Softball",
+            "Volleyball",
+            "Ice Hockey",
+            "Track and Field",
+            "Cross Country",
+            "Swimming and Diving",
+            "Rowing",
+            "Sailing",
+            "Water Polo",
+            "Fencing",
+            "Golf",
+            "Tennis"
+          ]
+        },
+        {
+          "category": "Club Sports",
+          "sports_list": [
+            "Ultimate Frisbee",
+            "Rugby",
+            "Cricket",
+            "Lacrosse",
+            "Cycling",
+            "Equestrian",
+            "Squash",
+            "Table Tennis",
+            "Skiing and Snowboarding",
+            "Wrestling",
+            "Taekwondo",
+            "Badminton"
+          ]
+        },
+        {
+          "category": "Intramural Sports",
+          "sports_list": [
+            "Flag Football",
+            "Soccer",
+            "Basketball",
+            "Softball",
+            "Volleyball",
+            "Dodgeball",
+            "Tennis",
+            "Ping Pong",
+            "Bowling",
+            "Billiards"
+          ]
+        }
+      ]
+    },
+    {
+      "college_name": "California Institute of Technology (Caltech)",
+      "admission_dates": "2023-08-15 to 2023-08-31",
+      "college_image": "https://topuniversities.us/wp-content/uploads/2019/04/caltech02.jpg",
+      "events": [
+        {
+          "event_name": "Welcome Picnic",
+          "date": "2023-09-01",
+          "description": "A picnic event to welcome new students to Caltech and foster a sense of community."
+        },
+        {
+          "event_name": "Tech Fest",
+          "date": "2023-09-15",
+          "description": "An exhibition showcasing innovative projects and research from Caltech students."
+        },
+        {
+          "event_name": "Space Exploration Conference",
+          "date": "2023-10-05",
+          "description": "A conference discussing the latest breakthroughs in space exploration and astronomy."
+        }
+      ],
+      "admission_process": "Caltech's admission process emphasizes a strong background in math and science, academic excellence, research experience, and a passion for STEM fields. SAT Subject Tests or ACT Writing are recommended but not required.",
+      "research_history": "Caltech has a prestigious research history known for its focus on science and engineering. It has been involved in cutting-edge research in fields such as astronomy, physics, chemistry, biology, and aerospace engineering. Caltech's research efforts have led to groundbreaking discoveries and technological advancements, including contributions to space exploration, the study of gravitational waves, and advancements in renewable energy.",
+      "research_works": [
+        {
+          "project_name": "Astronomy and Astrophysics",
+          "description": "Contributing to our understanding of the cosmos and exploring distant celestial objects."
+        },
+        {
+          "project_name": "Quantum Mechanics and Quantum Computing",
+          "description": "Pioneering research in quantum mechanics and its potential applications in computing."
+        },
+        {
+          "project_name": "Sustainable Energy Solutions",
+          "description": "Developing renewable energy technologies for a sustainable future."
+        }
+      ],
+      "sports": [
+        {
+          "category": "Varsity Sports",
+          "sports_list": [
+            "Soccer",
+            "Swimming",
+            "Volleyball",
+            "Basketball",
+            "Tennis",
+            "Track and Field",
+            "Water Polo",
+            "Cycling",
+            "Golf",
+            "Squash",
+            "Surfing"
+          ]
+        },
+        {
+          "category": "Club Sports",
+          "sports_list": [
+            "Ultimate Frisbee",
+            "Rugby",
+            "Cricket",
+            "Lacrosse",
+            "Cycling",
+            "Equestrian",
+            "Squash",
+            "Table Tennis",
+            "Skiing and Snowboarding",
+            "Wrestling",
+            "Badminton"
+          ]
+        },
+        {
+          "category": "Intramural Sports",
+          "sports_list": [
+            "Flag Football",
+            "Soccer",
+            "Basketball",
+            "Softball",
+            "Volleyball",
+            "Tennis",
+            "Swimming",
+            "Table Tennis",
+            "Cycling"
+          ]
+        }
+      ]
+    },
+    {
+      "college_name": "Cambridge University",
+      "admission_dates": "2023-08-01 to 2023-08-31",
+      "college_image": "https://i.huffpost.com/gen/1645164/images/o-CAMBRIDGE-UNIVERSITY-facebook.jpg",
+      "events": [
+        {
+          "event_name": "Freshers' Fair",
+          "date": "2023-09-05",
+          "description": "An event where new students can explore various clubs, societies, and activities at Cambridge."
+        },
+        {
+          "event_name": "Science Showcase",
+          "date": "2023-09-15",
+          "description": "A showcase of groundbreaking scientific research and innovations."
+        },
+        {
+          "event_name": "Alumni Gala",
+          "date": "2023-10-20",
+          "description": "A gala event to celebrate Cambridge's alumni and their achievements."
+        }
+      ],
+      "admission_process": "Cambridge University's admission process is highly competitive and focuses on academic achievements, passion for chosen subjects, letters of recommendation, and personal statement. Applicants may be required to take admission tests or attend interviews.",
+      "research_history": "Cambridge University has a rich research history and has been a center of intellectual excellence for centuries. It has been a breeding ground for pioneering research in various disciplines, including mathematics, physics, biology, literature, and social sciences. Cambridge's research history includes the discovery of the structure of DNA, the theory of evolution, and advancements in theoretical physics and cosmology.",
+      "research_works": [
+        {
+          "project_name": "Biochemistry and Molecular Biology",
+          "description": "Leading research in understanding biological processes at the molecular level."
+        },
+        {
+          "project_name": "Archaeology and Anthropology",
+          "description": "Unearthing the mysteries of the past and exploring human cultures and societies."
+        },
+        {
+          "project_name": "Computer Vision and Robotics",
+          "description": "Advancing computer vision and robotics technologies for various applications."
+        }
+      ],
+      "sports": [
+        {
+          "category": "Varsity Sports",
+          "sports_list": [
+            "Rowing",
+            "Cricket",
+            "Football",
+            "Rugby",
+            "Tennis",
+            "Swimming",
+            "Athletics",
+            "Hockey",
+            "Cycling",
+            "Badminton",
+            "Squash"
+          ]
+        },
+        {
+          "category": "Club Sports",
+          "sports_list": [
+            "Ultimate Frisbee",
+            "Sailing",
+            "Fencing",
+            "Water Polo",
+            "Equestrian",
+            "Surfing",
+            "Table Tennis"
+          ]
+        },
+        {
+          "category": "Intramural Sports",
+          "sports_list": [
+            "Flag Football",
+            "Soccer",
+            "Basketball",
+            "Volleyball",
+            "Cricket",
+            "Softball",
+            "Tennis",
+            "Swimming",
+            "Ping Pong",
+            "Dodgeball"
+          ]
+        }
+      ]
+    },
+    {
+      "college_name": "Yale University",
+      "admission_dates": "2023-09-01 to 2023-09-30",
+      "college_image": "https://www.usnews.com/cmsmedia/2e/4e/943c67ee4a8695ed4e16b6c5c8da/140930-yale-submitted.jpg",
+      "events": [
+        {
+          "event_name": "Fall Festival",
+          "date": "2023-09-10",
+          "description": "A festive event to celebrate the beginning of the fall semester at Yale."
+        },
+        {
+          "event_name": "Research Symposium",
+          "date": "2023-09-20",
+          "description": "A symposium featuring groundbreaking research from Yale's faculty and students."
+        },
+        {
+          "event_name": "Homecoming Weekend",
+          "date": "2023-10-15",
+          "description": "A weekend of festivities and sports events for alumni and current students."
+        }
+      ],
+      "admission_process": "Yale University follows a highly competitive and holistic admission process, considering academic excellence, extracurricular involvements, letters of recommendation, personal statement, and interviews. SAT or ACT scores are required.",
+      "research_history": "Yale University has a distinguished research history with contributions to a wide range of fields. It has been a hub for research in areas such as law, medicine, literature, economics, and political science. Yale's research history includes advancements in neuroscience, environmental studies, public health, and international relations. It has been home to prominent researchers and scholars who have made significant impacts on society.",
+      "research_works": [
+        {
+          "project_name": "Political Science and International Relations",
+          "description": "Exploring political systems, international policies, and global issues."
+        },
+        {
+          "project_name": "Biomedical Research and Medicine",
+          "description": "Advancing medical knowledge and contributing to healthcare advancements."
+        },
+        {
+          "project_name": "Environmental Studies and Sustainability",
+          "description": "Addressing environmental challenges and promoting sustainable practices."
+        }
+      ],
+      "sports": [
+        {
+          "category": "Varsity Sports",
+          "sports_list": [
+            "Football",
+            "Basketball",
+            "Baseball",
+            "Soccer",
+            "Softball",
+            "Volleyball",
+            "Ice Hockey",
+            "Track and Field",
+            "Cross Country",
+            "Swimming and Diving",
+            "Rowing",
+            "Sailing",
+            "Water Polo",
+            "Fencing",
+            "Golf",
+            "Tennis"
+          ]
+        },
+        {
+          "category": "Club Sports",
+          "sports_list": [
+            "Ultimate Frisbee",
+            "Rugby",
+            "Cricket",
+            "Lacrosse",
+            "Cycling",
+            "Equestrian",
+            "Squash",
+            "Table Tennis",
+            "Skiing and Snowboarding",
+            "Wrestling",
+            "Badminton"
+          ]
+        },
+        {
+          "category": "Intramural Sports",
+          "sports_list": [
+            "Flag Football",
+            "Soccer",
+            "Basketball",
+            "Softball",
+            "Volleyball",
+            "Dodgeball",
+            "Tennis",
+            "Ping Pong",
+            "Bowling",
+            "Billiards"
+          ]
+        }
+      ]
+    },
+    {
+      "college_name": "ETH Zurich - Swiss Federal Institute of Technology",
+      "admission_dates": "2023-08-15 to 2023-08-31",
+      "college_image": "https://up-study.ua/storage/media/582/conversions/top-universitetiv-svitu-shvejcarska-vischa-texnichna-shkola-cjurixa-eth-zurich-swiss-federal-institute-of-technology-ogljad-univ-default.jpg",
+      "events": [
+        {
+          "event_name": "Academic Opening Ceremony",
+          "date": "2023-09-01",
+          "description": "An official ceremony to mark the beginning of the academic year at ETH Zurich."
+        },
+        {
+          "event_name": "Innovation Expo",
+          "date": "2023-09-10",
+          "description": "A showcase of innovative projects and research from ETH Zurich's students and researchers."
+        },
+        {
+          "event_name": "Industry Collaboration Day",
+          "date": "2023-10-05",
+          "description": "A day dedicated to fostering collaborations between students and industries."
+        }
+      ],
+      "admission_process": "ETH Zurich's admission process evaluates academic qualifications, including transcripts and standardized test scores, and places significant emphasis on research experiences, motivation, and suitability for the chosen program.",
+      "research_history": "ETH Zurich is renowned for its research in science, engineering, and technology. It has a strong focus on applied research and has contributed to innovations in fields such as robotics, renewable energy, materials science, and computer science. ETH Zurich's research history includes pioneering work in architecture, urban planning, and sustainable development. It has been a leading institution in promoting research and innovation in Switzerland and beyond.",
+      "research_works": [
+        {
+          "project_name": "Robotics and Autonomous Systems",
+          "description": "Pioneering research in robotics, automation, and artificial intelligence."
+        },
+        {
+          "project_name": "Renewable Energy and Sustainability",
+          "description": "Advancing renewable energy technologies for a sustainable future."
+        },
+        {
+          "project_name": "Data Science and Machine Learning",
+          "description": "Exploring data analytics, machine learning, and predictive modeling."
+        }
+      ],
+      "sports": [
+        {
+          "category": "Varsity Sports",
+          "sports_list": [
+            "Football",
+            "Soccer",
+            "Basketball",
+            "Volleyball",
+            "Swimming",
+            "Tennis",
+            "Track and Field",
+            "Table Tennis",
+            "Fencing",
+            "Badminton"
+          ]
+        },
+        {
+          "category": "Club Sports",
+          "sports_list": [
+            "Sailing",
+            "Rowing",
+            "Ice Hockey",
+            "Cycling",
+            "Surfing",
+            "Squash"
+          ]
+        },
+        {
+          "category": "Intramural Sports",
+          "sports_list": [
+            "Flag Football",
+            "Basketball",
+            "Soccer",
+            "Volleyball",
+            "Swimming",
+            "Table Tennis",
+            "Ultimate Frisbee"
+          ]
+        }
+      ]
+    },
+    {
+      "college_name": "Princeton University",
+      "admission_dates": "2023-08-01 to 2023-08-31",
+      "college_image": "https://1.bp.blogspot.com/-SO2UNhh9iTY/WXTi5xBvPrI/AAAAAAAAlZ4/lw2LT06PKuAlQA_t_NUvys4axCrd4SSXgCLcBGAs/s1600/princeton-university-campus-5.jpg",
+      "events": [
+        {
+          "event_name": "Princeton Preview",
+          "date": "2023-09-05",
+          "description": "A campus visit program for prospective students to experience life at Princeton."
+        },
+        {
+          "event_name": "Research Symposium",
+          "date": "2023-09-15",
+          "description": "A symposium showcasing cutting-edge research across disciplines at Princeton."
+        },
+        {
+          "event_name": "Princeton Reunions",
+          "date": "2023-10-20",
+          "description": "An annual reunion event where alumni gather to celebrate and reconnect."
+        }
+      ],
+      "admission_process": "Princeton University follows a highly selective and holistic admission process, considering academic achievements, extracurricular involvement, leadership qualities, letters of recommendation, and interviews. SAT or ACT scores are required.",
+      "research_history": "Princeton University has a distinguished research history with a strong emphasis on science, social sciences, and humanities. It has been at the forefront of research in fields such as mathematics, physics, economics, psychology, and literature. Princeton's research history includes contributions to theoretical physics, game theory, and the development of the internet. It has been home to Nobel laureates, Fields Medal winners, and leading intellectuals.",
+      "research_works": [
+        {
+          "project_name": "Mathematics and Theoretical Physics",
+          "description": "Advancing mathematical theories and exploring the fundamental laws of physics."
+        },
+        {
+          "project_name": "Public Policy and International Affairs",
+          "description": "Addressing global challenges and analyzing public policy issues."
+        },
+        {
+          "project_name": "Literature and Creative Writing",
+          "description": "Nurturing literary talents and fostering creative expressions."
+        }
+      ],
+      "sports": [
+        {
+          "category": "Varsity Sports",
+          "sports_list": [
+            "Football",
+            "Basketball",
+            "Baseball",
+            "Soccer",
+            "Softball",
+            "Volleyball",
+            "Ice Hockey",
+            "Track and Field",
+            "Cross Country",
+            "Swimming and Diving",
+            "Rowing",
+            "Sailing",
+            "Water Polo",
+            "Fencing",
+            "Golf",
+            "Tennis"
+          ]
+        },
+        {
+          "category": "Club Sports",
+          "sports_list": [
+            "Ultimate Frisbee",
+            "Rugby",
+            "Cricket",
+            "Lacrosse",
+            "Cycling",
+            "Equestrian",
+            "Squash",
+            "Table Tennis",
+            "Skiing and Snowboarding",
+            "Wrestling",
+            "Taekwondo",
+            "Badminton"
+          ]
+        },
+        {
+          "category": "Intramural Sports",
+          "sports_list": [
+            "Flag Football",
+            "Soccer",
+            "Basketball",
+            "Softball",
+            "Volleyball",
+            "Dodgeball",
+            "Tennis",
+            "Ping Pong",
+            "Bowling",
+            "Billiards"
+          ]
+        }
+      ]
+    },
+    {
+      "college_name": "University of Chicago",
+      "admission_dates": "2023-09-01 to 2023-09-30",
+      "college_image": "https://images.mnstatic.com/b8/4e/b84e62fef41c0e0becbd7cdca832dfc7.jpg?quality=75&format=pjpg&fit=bounds&width=980&height=880",
+      "events": [
+        {
+          "event_name": "Convocation Ceremony",
+          "date": "2023-09-10",
+          "description": "A ceremony to welcome new students and mark the start of their academic journey at the University of Chicago."
+        },
+        {
+          "event_name": "UChicago Research Showcase",
+          "date": "2023-09-20",
+          "description": "An exhibition showcasing diverse research and academic achievements at UChicago."
+        },
+        {
+          "event_name": "Homecoming Weekend",
+          "date": "2023-10-15",
+          "description": "A weekend of events and activities to celebrate the university's community and history."
+        }
+      ],
+      "admission_process": "The University of Chicago has a highly competitive admission process, focusing on academic excellence, intellectual curiosity, strong writing skills, and a demonstrated passion for learning. SAT or ACT scores are required.",
+      "research_history": "University of Chicago has a long and influential research history in various disciplines. It has been a center for research in economics, law, sociology, political science, and literature. Chicago's research history includes pioneering work in the field of economics, leading to the development of the Chicago School of Economics. It has been a breeding ground for Nobel laureates and has made significant contributions to academia and public policy.",
+      "research_works": [
+        {
+          "project_name": "Economics and Behavioral Science",
+          "description": "Exploring economic principles and the influence of human behavior on decision-making."
+        },
+        {
+          "project_name": "Astronomy and Astrophysics",
+          "description": "Contributing to the field of astronomy and unraveling mysteries of the universe."
+        },
+        {
+          "project_name": "Urban Studies and Sociology",
+          "description": "Studying urban environments and societal dynamics in diverse communities."
+        }
+      ],
+      "sports": [
+        {
+          "category": "Varsity Sports",
+          "sports_list": [
+            "Football",
+            "Soccer",
+            "Basketball",
+            "Swimming",
+            "Wrestling",
+            "Tennis",
+            "Volleyball",
+            "Track and Field",
+            "Ultimate Frisbee",
+            "Rugby",
+            "Table Tennis"
+          ]
+        },
+        {
+          "category": "Club Sports",
+          "sports_list": [
+            "Fencing",
+            "Water Polo",
+            "Squash",
+            "Softball",
+            "Sailing",
+            "Badminton"
+          ]
+        },
+        {
+          "category": "Intramural Sports",
+          "sports_list": [
+            "Flag Football",
+            "Basketball",
+            "Soccer",
+            "Volleyball",
+            "Cricket",
+            "Softball",
+            "Tennis",
+            "Swimming",
+            "Ping Pong",
+            "Dodgeball"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,10 +1,9 @@
-
+import CollegeCards from "../components/CollegeCards";
 
 const Home = () => {
   return (
     <div>
-      <h1>Home</h1>
-      
+      <CollegeCards />
     </div>
   );
 };
